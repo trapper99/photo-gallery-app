@@ -1,0 +1,8 @@
+export const data = [
+    {
+        "name": "Photo 1",
+        "url": "/images/desktop_look.jpg",
+        "description": "Photo 1 description",
+        "date": "202"
+    }
+]
